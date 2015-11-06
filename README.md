@@ -5,7 +5,7 @@ Click on 'Download ZIP' to download this application. After unzipping the reposi
 
 To run the project from the command line, navigate to the application directory and type the following command:
 
-java -jar "LPSAnimator.jar"
+`java -jar LPSAnimator.jar`
 
 #### Screenshots:
 ![image 01](/screenshots/img01.jpg) | ![image 03](/screenshots/img03.jpg)
